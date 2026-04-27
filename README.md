@@ -6,6 +6,8 @@
 ## Overview
 This lab demonstrates creating an S3 Storage Bucket in the `us-east-1` region using Terraform.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **VERIFICATION**:ws-terraform-lab2> terraform apply
 
 Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the
